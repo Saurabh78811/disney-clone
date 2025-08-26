@@ -1,6 +1,6 @@
 import React from 'react'
-import image from '../assets/images/disney.png'
-import boy from '../assets/images/boy.png'
+import image from '../assets/Images/disney.png'
+import boy from '../assets/Images/boy.png'
 import { HiHome,HiMagnifyingGlass,HiStar,HiPlayCircle,HiTv } from "react-icons/hi2";
 import {HiPlus,HiDotsVertical } from "react-icons/hi";
 import HeaderList from './HeaderLists';
